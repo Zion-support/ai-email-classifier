@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Email Classifier
 
-**ai-email-classifier** is part of the Zion Tech Group app network (630+ apps).
+Intelligent email classification and routing.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-document-classifier](https://github.com/Zion-support/ai-document-classifier) · [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) · [zion-ai-email-marketing-pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) · [ai-phishing-simulator](https://github.com/Zion-support/ai-phishing-simulator)
 
-## Related apps
-- [ai-document-classifier](https://github.com/Zion-support/ai-document-classifier) — Document classification and routing
-- [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) — Ticket triage
-- [zion-ai-email-marketing-pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) — Email marketing
-- [ai-phishing-simulator](https://github.com/Zion-support/ai-phishing-simulator) — Security awareness training
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
